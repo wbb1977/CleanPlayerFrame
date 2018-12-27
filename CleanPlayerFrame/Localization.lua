@@ -1,11 +1,13 @@
-﻿if GetLocale() == "deDE" then
+﻿CLEANPLAYERFRAME_NAME = "Clean Player Frame Options";
+
+if GetLocale() == "deDE" then
 
   --
   -- German
   --
 
   CLEANPLAYERFRAME_MYADDONS_DESCRIPTION = "Entfernt den Text Gesundheit/Mana/Wut/Fokus/Energie vom Spielerportr\195\164t.";
-  --CLEANPLAYERFRAME_MYADDONS_RELEASEDATE = "30. August 2006";
+  CLEANPLAYERFRAME_MYADDONS_RELEASEDATE = "27. Dezember 2018";
 
   CLEANPLAYERFRAME_CHATHELP = {
     HIGHLIGHT_FONT_COLOR_CODE .. "/cleanplayerframe" .. LIGHTYELLOW_FONT_COLOR_CODE .. " - Einstellungen \195\164ndern."
@@ -89,7 +91,7 @@ else
   --
 
   CLEANPLAYERFRAME_MYADDONS_DESCRIPTION = "Removes text health/mana/rage/focus/energy from the player frame.";
-  --CLEANPLAYERFRAME_MYADDONS_RELEASEDATE = "August 30, 2006";
+  CLEANPLAYERFRAME_MYADDONS_RELEASEDATE = "December 27, 2018";
 
   CLEANPLAYERFRAME_CHATHELP = {
     HIGHLIGHT_FONT_COLOR_CODE .. "/cleanplayerframe" .. LIGHTYELLOW_FONT_COLOR_CODE .. " - Change setup."

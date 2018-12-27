@@ -1,12 +1,15 @@
 --
--- Clean Player Frame
+-- Clean Player Frame v11200f
 --
--- by Bastian Pflieger <wb@illogical.de>
+-- by Bastian Pflieger <wbb1977@gmail.com>
 --
--- Last update: September 14, 2006
+-- Created: September 14, 2006
 --
--- supports "myAddOns": http://www.curse-gaming.com/mod.php?addid=358
+-- supports "myAddOns" up to v2.6: https://wow.curseforge.com/projects/my-add-ons
 --
+
+-- December 27, 2018:
+-- clean up for private server WoW Vanialla 1.12
 
 -- CleanPlayerFrameCombo Modes:
 -- 1 - Disabled
