@@ -4,7 +4,7 @@ Vanialla World of Warcraft Unitframe Addon
 # Functions
 Small enhancement for the standard player, target and party frames.
 
-Enter '/cleanplayerframe' to access option window.
+Enter <code>/cleanplayerframe</code> to access option window.
 
 * Option Player frame
   * "Leave untouched" - Addon does not change player frame text.
