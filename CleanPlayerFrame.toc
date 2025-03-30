@@ -1,4 +1,4 @@
-## Interface: 11200f
+## Interface: 11200
 ## Title: Clean Player Frame
 ## Notes: Removes text "Health" and "Mana" / "Rage" / "Focus" / "Energy" from the player frame.
 ## Notes-deDE: Entfernt den Text "Gesundheit" sowie "Mana" / "Wut" / "Fokus" / "Energie" vom Spielerporträt.
